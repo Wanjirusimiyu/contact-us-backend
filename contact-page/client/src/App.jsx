@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactUs from './ContactUs';
+import ContactUs from './Components/ContactUs';
 // import Recipe from './Recipe';
 
 function App() {
