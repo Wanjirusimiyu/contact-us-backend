@@ -1,6 +1,7 @@
 import React from 'react';
 import ContactUs from './Pages/ContactUs';
 import FeaturedRecipes from './Pages/FeaturedRecipe';
+import ExploreRecipes from './Pages/ExploreRecipes';
 // import Recipe from './Recipe';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       {/* <Recipe /> */}
       <ContactUs />
       <FeaturedRecipes/>
+      <ExploreRecipes />
     </div>
   );
 }
@@ -21,6 +23,7 @@ export default App;
 // // import ContactUs from './Pages/ContactUs.jsx';
 // // import Navbar from './Components/Navbar.jsx'; 
 // import FeaturedRecipes from './pages/FeaturedRecipe';
+// import ExploreRecipes from './Pages/ExploreRecipes';
 
 // // function App() {
 // //   return (
