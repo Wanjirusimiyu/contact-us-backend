@@ -32,21 +32,21 @@ const RecipeCard = () => {
     }
   };
 
-  const recipe = {
-    chefImage: 'https://img.freepik.com/free-photo/young-african-american-woman-isolated-yellow-studio-background-facial-expression-beautiful-female-close-up-portrait-concept-human-emotions-facial-expression-smiling-keeping-calm_155003-25193.jpg?t=st=1723163379~exp=1723166979~hmac=eb8050034805c34763f392d47e5458b872844231636ae21810f4e327c1250260&w=360',
-    title: 'Delicious Pasta Recipe',
-    chefName: 'Wanane Nane',
-    image: 'https://img.freepik.com/premium-photo/bowl-pasta-with-bowl-tomato-sauce-basil_1246444-1166.jpg?w=740',
-    ingredients: 'Pasta, Tomato Sauce, Cheese, Herbs',
-    instructions: 'Cook pasta, add sauce, sprinkle cheese, and garnish with herbs...',
-    url: 'https://example.com/recipe',
-    moreInfoUrl: 'https://example.com/recipe-details',
-    rating: 4.5,
-    prepTime: '30 minutes',
-    servings: 4,
-    countryOfOrigin: 'Italy',
-    dietType: 'Vegetarian',
-  };
+  // const recipe = {
+  //   chefImage: 'https://img.freepik.com/free-photo/young-african-american-woman-isolated-yellow-studio-background-facial-expression-beautiful-female-close-up-portrait-concept-human-emotions-facial-expression-smiling-keeping-calm_155003-25193.jpg?t=st=1723163379~exp=1723166979~hmac=eb8050034805c34763f392d47e5458b872844231636ae21810f4e327c1250260&w=360',
+  //   title: 'Delicious Pasta Recipe',
+  //   chefName: 'Wanane Nane',
+  //   image: 'https://img.freepik.com/premium-photo/bowl-pasta-with-bowl-tomato-sauce-basil_1246444-1166.jpg?w=740',
+  //   ingredients: 'Pasta, Tomato Sauce, Cheese, Herbs',
+  //   instructions: 'Cook pasta, add sauce, sprinkle cheese, and garnish with herbs...',
+  //   url: 'https://example.com/recipe',
+  //   moreInfoUrl: 'https://example.com/recipe-details',
+  //   rating: 4.5,
+  //   prepTime: '30 minutes',
+  //   servings: 4,
+  //   countryOfOrigin: 'Italy',
+  //   dietType: 'Vegetarian',
+  // };
 
   return (
 
