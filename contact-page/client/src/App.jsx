@@ -2,14 +2,14 @@ import React from 'react';
 import ContactUs from './Pages/ContactUs';
 import FeaturedRecipes from './Pages/FeaturedRecipe';
 import ExploreRecipes from './Pages/ExploreRecipes';
-// import Recipe from './Recipe';
+
 
 function App() {
   return (
     <div>
       {/* <Recipe /> */}
-      <ContactUs />
-      <FeaturedRecipes/>
+      {/* <ContactUs /> */}
+      {/* <FeaturedRecipes/> */}
       <ExploreRecipes />
     </div>
   );
