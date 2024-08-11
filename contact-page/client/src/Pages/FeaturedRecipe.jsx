@@ -4,7 +4,6 @@ import FeaturedRecipesCard from '../Components/FeaturedRecipesCard.jsx';
 const dummyData = [
   { id: 1, title: 'Recipe 1', description: 'Delicious recipe 1', imageUrl: 'path/to/image1.jpg' },
   { id: 2, title: 'Recipe 2', description: 'Delicious recipe 2', imageUrl: 'path/to/image2.jpg' },
-  // Add more dummy recipes as needed
 ];
 
 const FeaturedRecipes = () => {
